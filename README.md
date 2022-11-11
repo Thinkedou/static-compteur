@@ -9,6 +9,6 @@ Créer la data compteur avec le bon *type*
 ## Une fonction et modifier les datas
 Créer une première méthode et l'associer à un évenement Vue.js @click
 ## Class Binding 
-Class and style bindings  
+Si le compteur est inférieur à zéro > changer l'affichage en rouge  
 ## VueDevTools & Build
 Tester la réactivité via l'outil devTools associé et regarder ce que fait un build
